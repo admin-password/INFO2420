@@ -1,0 +1,44 @@
+<!--1. Markup errors
+
+a) <img "birthday.jpg">
+
+Problems:
+
+Missing the required src attribute name. Can't just drop a bare string in an attribute position; it needs attribute="value" form.
+Missing alt attribute, which should always be included for accessibility.
+<img> is a void (self-closing) element, so it shouldn't have a closing tag anyway, but it does need to be well-formed.
+
+Correct:
+
+html
+<img src="birthday.jpg" alt="Birthday cake with candles">
+
+b) <em>Congratulations!<em>
+
+Problem: The closing tag should be </em> (with a forward slash), not another opening <em> tag.
+
+Correct:
+
+html
+<em>Congratulations!</em>
+
+c) <a href="file.html">linked text</a href="file.html">
+
+Problem: Closing tags never repeat the attributes — they should just be the element name preceded by a slash: </a>.
+
+Correct:
+
+html
+<a href="file.html">linked text</a>
+
+d) <p>This is a new paragraph<\p>
+
+Problem: The closing slash is backwards. It should be </p>, not <\p>.
+
+Correct:
+
+html
+<p>This is a new paragraph</p>
+2. Marking up a comment
+
+HTML comments are wrapped in <!-- and -->. Anything between those markers is ignored by the browser and won't display on the page: -->
