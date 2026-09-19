@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4A\\HTML4AFiles\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice4A\\HTML4AFiles\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,14 +83,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4A\\HTML4AFiles\\index.html",
-              "RelativeDocumentMoniker": "practices\\Practice4A\\HTML4AFiles\\index.html",
-              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4A\\HTML4AFiles\\index.html",
-              "RelativeToolTip": "practices\\Practice4A\\HTML4AFiles\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAYAAAAAAAAAA==",
+              "Title": "CSS3Fonts.html",
+              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
+              "RelativeDocumentMoniker": "practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
+              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
+              "RelativeToolTip": "practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-09-19T01:17:53.92Z",
+              "WhenOpened": "2026-09-19T03:00:57.513Z",
               "EditorCaption": ""
             },
             {
@@ -101,7 +101,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-18T03:32:00.517Z",
               "EditorCaption": ""
