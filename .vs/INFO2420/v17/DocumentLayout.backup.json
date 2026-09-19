@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Name\\Documents\\School\\INFO2420\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4A\\HTML4AFiles\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice4A\\HTML4AFiles\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\projects\\Project2\\AboutUs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\Project2\\AboutUs.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,6 +84,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4A\\HTML4AFiles\\index.html",
+              "RelativeDocumentMoniker": "practices\\Practice4A\\HTML4AFiles\\index.html",
+              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4A\\HTML4AFiles\\index.html",
+              "RelativeToolTip": "practices\\Practice4A\\HTML4AFiles\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-19T01:17:53.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html",
@@ -91,19 +104,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-18T03:32:00.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AboutUs.html",
-              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\projects\\Project2\\AboutUs.html",
-              "RelativeDocumentMoniker": "projects\\Project2\\AboutUs.html",
-              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\projects\\Project2\\AboutUs.html",
-              "RelativeToolTip": "projects\\Project2\\AboutUs.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-09-18T03:29:15.049Z",
               "EditorCaption": ""
             }
           ]
