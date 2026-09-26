@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -139,7 +139,7 @@
               "RelativeDocumentMoniker": "practices\\Practice5\\HTML 5\\index.html",
               "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\index.html",
               "RelativeToolTip": "practices\\Practice5\\HTML 5\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-09-26T18:11:15.32Z",
               "EditorCaption": ""
