@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Name\\Documents\\School\\INFO2420\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice5\\HTML 5\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Chrysalis.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice5\\HTML 5\\Chrysalis.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Monarch.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice5\\HTML 5\\Monarch.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Fritillary.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:practices\\Practice5\\HTML 5\\Fritillary.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,18 +95,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CSS3Fonts.html",
-              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
-              "RelativeDocumentMoniker": "practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
-              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
-              "RelativeToolTip": "practices\\Practice4B\\HTML4BFiles\\CSS3Fonts\\CSS3Fonts.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAACGAAAAAAAAAA==",
+              "Title": "Chrysalis.html",
+              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Chrysalis.html",
+              "RelativeDocumentMoniker": "practices\\Practice5\\HTML 5\\Chrysalis.html",
+              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Chrysalis.html",
+              "RelativeToolTip": "practices\\Practice5\\HTML 5\\Chrysalis.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-09-19T03:00:57.513Z"
+              "WhenOpened": "2026-09-26T18:39:26.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monarch.html",
+              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Monarch.html",
+              "RelativeDocumentMoniker": "practices\\Practice5\\HTML 5\\Monarch.html",
+              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Monarch.html",
+              "RelativeToolTip": "practices\\Practice5\\HTML 5\\Monarch.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-26T18:39:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fritillary.html",
+              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Fritillary.html",
+              "RelativeDocumentMoniker": "practices\\Practice5\\HTML 5\\Fritillary.html",
+              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\Fritillary.html",
+              "RelativeToolTip": "practices\\Practice5\\HTML 5\\Fritillary.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-26T18:37:12.392Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\index.html",
+              "RelativeDocumentMoniker": "practices\\Practice5\\HTML 5\\index.html",
+              "ToolTip": "C:\\Users\\Name\\Documents\\School\\INFO2420\\practices\\Practice5\\HTML 5\\index.html",
+              "RelativeToolTip": "practices\\Practice5\\HTML 5\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-09-26T18:11:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Name\\Documents\\School\\INFO2420\\index.html",
               "RelativeDocumentMoniker": "index.html",
