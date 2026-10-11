@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\practices",
-    "\\practices\\basic-fundamentals",
+    "\\practices\\photo-enhancement-basics",
+    "\\practices\\Practice1B\\HTML1B",
+    "\\practices\\Practice1B\\HTML1B\\HTML1B",
     "\\projects",
     "\\projects\\Project3",
     "\\projects\\Project3\\RentAPet",
     "\\projects\\Project4"
   ],
-  "SelectedNode": "\\projects\\Project4\\index.html",
+  "SelectedNode": "\\practices\\photo-enhancement-basics\\index.html",
   "PreviewInSolutionExplorer": false
 }
