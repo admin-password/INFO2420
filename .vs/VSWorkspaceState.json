@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\practices",
-    "\\practices\\JavaScriptPractice1",
-    "\\projects",
+    "\\practices\\flexbox",
+    "\\practices\\flexbox\\16-1",
+    "\\practices\\flexbox\\16-2 and 3",
     "\\projects\\Project5"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\practices\\flexbox\\16-1\\bakery.html",
   "PreviewInSolutionExplorer": false
 }
