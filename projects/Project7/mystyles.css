@@ -1,0 +1,240 @@
+@charset "utf-8";
+/* mystyles.css - Rent A Pet */
+
+/* ================= Styles from AboutUs / Tributes (Project 4) ================= */
+
+body {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 100%;
+  line-height: 1.6;
+  background-color: #FAF3E8;
+  color: #3E2F25;
+  margin: 0 0 2em 0;              /* side margins removed so the 900px box centers at any width */
+}
+
+h1 {
+  font-size: 2em;
+  color: #B5541F;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.4em;
+  color: #8C5A2B;
+}
+
+h3 {
+  font-size: 1.1em;
+  color: #70451F;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+blockquote {
+  background-color: #F0E4D3;
+  margin: 1em 2em;
+  padding: 0.5em 1em;
+  font-style: italic;
+}
+
+ul {
+  line-height: 1.6;
+}
+
+hr {
+  clear: both;
+  margin: 2em 0;
+}
+
+a:link {
+  color: #2C6E8E;
+}
+
+a:visited {
+  color: #6B4C3A;
+}
+
+a:hover,
+a:focus {
+  color: #A14A1A;
+}
+
+a:active {
+  color: #5C2D0C;
+}
+
+.photoRight {
+  float: right;
+  padding: 0 0 1em 1em;
+}
+
+.photoLeft {
+  float: left;
+  padding: 0 1em 1em 0;
+}
+
+/* TODO: make sure this filename matches the font file in your Fonts folder exactly */
+@font-face {
+  font-family: 'StreetHumoresque';
+  src: url('Fonts/StreetHumoresque.ttf') format('truetype');
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95em;
+  margin-bottom: 1em;
+}
+
+caption {
+  font-family: 'StreetHumoresque', Verdana, Arial, sans-serif;
+  font-size: 1.4em;
+  color: #B5541F;
+  background-color: #F0E4D3;
+  border: 2px solid #8C5A2B;
+  border-radius: 10px;
+  padding: 0.3em;
+  margin-bottom: 0.5em;
+}
+
+th {
+  background-color: #8C5A2B;
+  color: #FFFFFF;
+  padding: 0.5em;
+  text-align: left;
+}
+
+td {
+  background-color: #F0E4D3;
+  color: #3E2F25;
+  border: 1px solid #8C5A2B;
+  padding: 0.5em;
+}
+
+.price {
+  text-align: right;
+}
+
+
+/* ================= Home page layout (Project 7) ================= */
+
+/* Fixed-width centered container */
+#container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+/* Header */
+header {
+  width: 900px;
+  height: 185px;
+  background-color: #8C5A2B;
+  overflow: hidden;
+}
+#logo {
+  float: left;
+  width: 130px;
+  height: 175px;
+  margin: 5px 10px;
+}
+#banner {
+  float: left;
+  width: 430px;                   /* logo 150 + banner 430 + nav 270 = 850 */
+  height: auto;
+  margin-top: 20px;
+}
+
+/* Nav nested in header: 30% wide, floated right */
+nav {
+  float: right;
+  width: 30%;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav a:link, nav a:visited {
+  display: block;
+  padding: 2px 0;
+  margin: 4px 8px;
+  font-size: 1.1em;
+  text-align: center;
+  text-decoration: none;
+  color: #FFFFFF;
+  background-color: #B5541F;
+  border: 1px solid #FAF3E8;
+  border-radius: 6px;
+}
+nav a:hover, nav a:focus, nav a:active {
+  color: #5C2D0C;
+  background-color: #F0E4D3;
+}
+
+/* Section: 900px, no height, background repeats down */
+section {
+  width: 900px;
+  background-color: #FFFDF8;
+  background-image: url('Images/backimage.jpg');
+  background-repeat: repeat-y;
+  overflow: hidden;
+}
+
+/* Article: about 800px */
+article {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+article p {
+  text-align: left;               /* paragraphs must NOT be centered */
+}
+
+/* Thumbnail image swap */
+#thumbs {
+  text-align: center;
+}
+#thumbs img {
+  margin: 4px;
+  border: 2px solid #8C5A2B;
+  cursor: pointer;
+}
+#theImage {
+  text-align: center;
+}
+#bigImage {
+  max-width: 500px;
+  height: auto;
+}
+
+/* Mini-tribute */
+#minitribute {
+  overflow: hidden;
+}
+#minitribute img {
+  float: left;
+  width: 133px;
+  height: auto;
+  margin: 0 15px 10px 0;
+}
+
+/* Footer: same width as header */
+footer {
+  width: 900px;
+  height: 80px;
+  background-color: #8C5A2B;
+  color: #FFFFFF;
+  text-align: center;
+}
+footer p {
+  margin: 0;
+  padding-top: 12px;
+}
+footer a:link, footer a:visited {
+  color: #F0E4D3;
+}
+footer a:hover, footer a:focus {
+  color: #FFFFFF;
+}
